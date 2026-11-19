@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#0d1117"/>
+  
+  <!-- Header bar -->
+  <rect x="0" y="0" width="1024" height="80" fill="#161b22"/>
+  <text x="512" y="50" font-family="system-ui, sans-serif" font-size="28" font-weight="bold" fill="#f0f6fc" text-anchor="middle">THE WORLD DAILY</text>
+  <text x="512" y="72" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e" text-anchor="middle">WEDNESDAY, 18 NOVEMBER 2026</text>
+  
+  <!-- Divider -->
+  <line x1="20" y1="85" x2="1004" y2="85" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Region: AMERICAS -->
+  <rect x="20" y="100" width="482" height="220" fill="#161b22" rx="8"/>
+  <text x="40" y="128" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">AMERICAS</text>
+  <line x1="40" y1="135" x2="200" y2="135" stroke="#58a6ff" stroke-width="2"/>
+  
+  <!-- Story 1: Trump Manila -->
+  <text x="40" y="165" font-family="system-ui, sans-serif" font-size="18" font-weight="bold" fill="#f0f6fc">🇺🇸🇵🇭 TRUMP IN MANILA</text>
+  <text x="40" y="190" font-family="system-ui, sans-serif" font-size="13" fill="#c9d1d9">ASEAN/APEC Summit — US-Philippines bilateral, Quad leaders meet</text>
+  <text x="40" y="210" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">Trump secures historic economic deals, strengthens US leadership in Asia</text>
+  
+  <!-- Story 2: APEC Shenzhen -->
+  <text x="40" y="245" font-family="system-ui, sans-serif" font-size="18" font-weight="bold" fill="#f0f6fc">🇨🇳🌏 APEC SHENZHEN</text>
+  <text x="40" y="270" font-family="system-ui, sans-serif" font-size="13" fill="#c9d1d9">Xi hosts Trump, Putin, 21 leaders — trade talks on sidelines</text>
+  <text x="40" y="290" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">Welcome banquet kicks off 33rd APEC Economic Leaders' Meeting</text>
+  
+  <!-- Region: EUROPE -->
+  <rect x="522" y="100" width="482" height="220" fill="#161b22" rx="8"/>
+  <text x="542" y="128" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#f78166">EUROPE</text>
+  <line x1="542" y1="135" x2="700" y2="135" stroke="#f78166" stroke-width="2"/>
+  
+  <!-- Story 3: Crimea Bridge -->
+  <text x="542" y="165" font-family="system-ui, sans-serif" font-size="18" font-weight="bold" fill="#f0f6fc">🇺🇦🌉 CRIMEA BRIDGE FALLS</text>
+  <text x="542" y="190" font-family="system-ui, sans-serif" font-size="13" fill="#c9d1d9">Ukraine "unprecedented" strike collapses Kerch Bridge arch</text>
+  <text x="542" y="210" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">Putin's prized lifeline severed — 900ft roadway destroyed, rail damaged</text>
+  
+  <!-- Story 4: EU Budget -->
+  <text x="542" y="245" font-family="system-ui, sans-serif" font-size="18" font-weight="bold" fill="#f0f6fc">🇪🇺💰 EU BUDGET €199.7B</text>
+  <text x="542" y="270" font-family="system-ui, sans-serif" font-size="13" fill="#c9d1d9">2027 deal sealed — €45B Ukraine loan, Russian assets as collateral</text>
+  <text x="542" y="290" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">Parliament secures €300M top-ups for Horizon, Erasmus+, civil protection</text>
+  
+  <!-- Region: MIDDLE EAST -->
+  <rect x="20" y="340" width="482" height="220" fill="#161b22" rx="8"/>
+  <text x="40" y="368" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#d2a8ff">MIDDLE EAST</text>
+  <line x1="40" y1="375" x2="220" y2="375" stroke="#d2a8ff" stroke-width="2"/>
+  
+  <!-- Story 5: Gulf Escalation -->
+  <text x="40" y="405" font-family="system-ui, sans-serif" font-size="18" font-weight="bold" fill="#f0f6fc">🇮🇷⚔️ GULF ESCALATION</text>
+  <text x="40" y="430" font-family="system-ui, sans-serif" font-size="13" fill="#c9d1d9">US strikes Qeshm Island → Iran/Houthi missile barrage</text>
+  <text x="40" y="450" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">Gulf states intercept drones/missiles — Bahrain accuses Tehran of "systematic hostility"</text>
+  <text x="40" y="470" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">Track warns US takes Iranian attack prospect "very seriously"</text>
+  
+  <!-- Story 6: Cyclone Akvan -->
+  <text x="40" y="505" font-family="system-ui, sans-serif" font-size="18" font-weight="bold" fill="#f0f6fc">🌀🇮🇳 CYCLONE AKVAN</text>
+  <text x="40" y="530" font-family="system-ui, sans-serif" font-size="13" fill="#c9d1d9">Bay of Bengal — Severe cyclonic storm threatens East India</text>
+  <text x="40" y="550" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">Peak winds 102 km/h — Odisha, West Bengal on high alert</text>
+  
+  <!-- Region: ASIA-PACIFIC -->
+  <rect x="522" y="340" width="482" height="220" fill="#161b22" rx="8"/>
+  <text x="542" y="368" font-family="system-ui, sans-serif" font-size="14" font-weight="bold" fill="#3fb950">ASIA-PACIFIC</text>
+  <line x1="542" y1="375" x2="720" y2="375" stroke="#3fb950" stroke-width="2"/>
+  
+  <!-- Story 7: APEC Shenzhen detail -->
+  <text x="542" y="405" font-family="system-ui, sans-serif" font-size="18" font-weight="bold" fill="#f0f6fc">🇨🇳🤝 APEC 2026 PRIORITIES</text>
+  <text x="542" y="430" font-family="system-ui, sans-serif" font-size="13" fill="#c9d1d9">Openness, Innovation, Cooperation — China's host year agenda</text>
+  <text x="542" y="450" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">21 economies converge on trade, digital economy, sustainability</text>
+  <text x="542" y="470" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">CEO Summit Nov 17-18 — business leaders align with government</text>
+  
+  <!-- Story 8: Ukraine war context -->
+  <text x="542" y="505" font-family="system-ui, sans-serif" font-size="18" font-weight="bold" fill="#f0f6fc">⚡ UKRAINE STRIKES KYIV BRIDGES</text>
+  <text x="542" y="530" font-family="system-ui, sans-serif" font-size="13" fill="#c9d1d9">Russia pounds Zaporizhzhia, Dnipro, Odesa in retaliation</text>
+  <text x="542" y="550" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">800 drones launched at Moscow — 321 downed on approach</text>
+  
+  <!-- Bottom bar -->
+  <rect x="0" y="580" width="1024" height="60" fill="#161b22"/>
+  <text x="512" y="618" font-family="system-ui, sans-serif" font-size="14" fill="#8b949e" text-anchor="middle">make.fun · news-image-20261118 · 7 stories · 4 regions · 1 image</text>
+  <text x="512" y="636" font-family="system-ui, sans-serif" font-size="11" fill="#6e7681" text-anchor="middle">Faithful to reported events · No speculation · Crafted for clarity at 300px</text>
+</svg>
